@@ -1,0 +1,223 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+
+.Navbar{
+
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    
+
+}
+
+.Navbar .logo {
+    display: inline;
+    height: 30px;
+    width: auto;
+    margin: 10px;
+    margin-right: 80px;
+    margin-left: 70px;
+}
+
+.sb{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border: 1px solid grey;
+    opacity: 60%;
+    padding: 10px;
+    border-radius: 10px;
+    width: 700px;
+}
+
+.sb .sbicon {
+    height: 30px;
+    width: auto;
+}
+
+.sb .sbtext {
+    font-size: 18px;
+    color: #444;
+    margin-left: 10px;
+}
+
+
+.o {
+    height: 24px;
+    margin-left: 30px;
+}
+
+.ot{
+
+    font-size: 24px;
+    color: #444;
+    margin-left: 8px;
+    opacity: 50%;
+    text-decoration: none;
+}
+
+.foodlist {
+
+    margin-top: 0px;
+    width: 100%;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.f{
+    margin: 20px;
+    height: 130px;
+    width: auto;
+    cursor: pointer;
+}
+
+h1{ 
+    font-weight: 800;
+    margin: 10px;
+}
+
+.rs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.i{
+    padding: 10px;
+    height: 110px;
+    width: 190px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.cart{
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    height: 230px;
+    width: 210px;
+    border: 0.10px solid black;
+    cursor: pointer;
+
+}
+
+.cart h2 {
+    margin-left: 5px;
+    margin-top: 5px;
+    font-weight: 800;
+    opacity: 90%;
+
+}
+
+.cart h3 {
+    
+    margin-left: 5px;
+    font-weight: 500;
+    color: grey;
+    opacity: 90%;
+}
+
+.cart h4 {
+
+
+    
+    margin-left: 5px;
+    font-weight: 500;
+    color: grey;
+    opacity: 90%;
+
+
+}
+
+.bn{
+
+    display: flex;
+}
+
+.banner {
+    
+    width: 700px;
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    padding: 0px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.banner img {
+
+    width: 550px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+button {
+
+    margin-top: 10px;
+    padding: 10px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+
+.social{
+    
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-image: url('c302df76-54a1-40ea-8356-09a8e70180f9.png');
+    padding: 10px;
+}
+
+
+.work{
+
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.work div img {
+    height: 150px;
+    width: auto;
+}
+
+.hwork{
+
+    margin-top: 50px;
+    margin-right: 50px;
+
+
+}
+
+table tr td  img {
+ 
+    height: 400px;
+    width: auto;
+   
+}
+
+
+td h1 , button , h4  {
+    margin-bottom: 30px;
+}
